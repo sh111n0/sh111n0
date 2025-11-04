@@ -64,16 +64,6 @@ const edward = {
 
 </div>
 
-## 📡 GITHUB_ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sh111n0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sh111n0&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=FF6D00&currStreakLabel=00F0FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh111n0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
-
-</div>
 
 ## 💡 SPECIALIZATION_MATRIX
 
