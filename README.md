@@ -6,9 +6,9 @@
 ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
 █  ╔═════════════════════════════════════════╗  █
-█  ║  ESTUDIANTE DE INGENIERÍA DE SOFTWARE  ║  █
-█  ║  ENTUSIASTA DEL DESARROLLO DE JUEGOS   ║  █
-█  ║  ESPECIALISTA EN QA Y DEPURACIÓN       ║  █
+█  ║  ESTUDIANTE DE INGENIERÍA DE SOFTWARE   ║  █
+█  ║  ENTUSIASTA DEL DESARROLLO DE JUEGOS    ║  █
+█  ║  ESPECIALISTA EN QA Y DEPURACIÓN        ║  █
 █  ╚═════════════════════════════════════════╝  █
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -42,30 +42,6 @@ const edward = {
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode&theme=dark" />
 
 </div>
-
----
-
-## 🔧 KIT_DE_DESARROLLO
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════╗
-║  IDEs Y EDITORES                                   ║
-╠════════════════════════════════════════════════════╣
-║  > Apache NetBeans     [Desarrollo en Java]        ║
-║  > Visual Studio Code  [Multi-propósito]           ║
-║  > MySQL Workbench     [Gestión de Bases de Datos] ║
-╚════════════════════════════════════════════════════╝
-```
-
-![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
 
 ## 🎮 INTERESES_EN_DESARROLLO_DE_JUEGOS
 
