@@ -1,139 +1,142 @@
 <div align="center">
 
-# 〔 EDWARD NICOLAS CASTRO 〕
-
-```ascii
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-█  ╔═════════════════════════════════════════╗  █
-█  ║  ESTUDIANTE DE INGENIERÍA DE SOFTWARE   ║  █
-█  ║  ENTUSIASTA DEL DESARROLLO DE JUEGOS    ║  █
-█  ║  ESPECIALISTA EN QA Y DEPURACIÓN        ║  █
-█  ╚═════════════════════════════════════════╝  █
-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:00aeff&height=200&section=header&text=Edward%20Castro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Técnico%20en%20Desarrollo%20de%20Software%20·%20Java%20·%20C%23%20·%20SQL&descAlignY=58&descColor=aad4f5" />
 
 </div>
 
 ---
 
-## ⚡ SISTEMA_INICIALIZADO
+## 👾 Sobre mí
 
-```javascript
-const edward = {
-    rol: "Estudiante de Ingeniería de Software",
-    ubicacion: "Colombia 🇨🇴",
-    misionActual: "Construyendo el futuro, una línea de código a la vez",
-    habilidadesEspeciales: ["Depuración", "Testing QA", "Optimización de Código"],
-    proyectoSoñado: "Desarrollo de Videojuegos",
-    estado: "Aprendiendo && Creando"
-};
+```java
+public class Edward extends Desarrollador {
+
+    String rol       = "Técnico en formación — Ing. de Software";
+    String ubicacion = "Bogotá, Colombia 🇨🇴";
+    String semestre  = "Cuarto semestre — Ucompensar";
+
+    String[] enfoque = {
+        "Programación Orientada a Objetos",
+        "Bases de Datos Relacionales",
+        "Algoritmos & Estructuras de Datos",
+        "Pruebas de Software & Debugging"
+    };
+
+    String objetivo  = "Contrato de aprendizaje para aplicar mis habilidades en un entorno real";
+    String pasion    = "Desarrollo de videojuegos (RPG · Acción · Mundos 3D)";
+}
 ```
 
 ---
 
-## 🛠️ STACK_TECNOLÓGICO
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode&theme=dark" />
+### Lenguajes
+![Java](https://img.shields.io/badge/Java-Intermedio-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Intermedio-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Básico-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-</div>
-
-## 🎮 INTERESES_EN_DESARROLLO_DE_JUEGOS
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────┐
-│  GÉNEROS DE INTERÉS                          │
-├──────────────────────────────────────────────┤
-│  🗡️  Juegos RPG                             │
-│  🌍  Entornos 3D                             │
-│  ⚔️  Acción y Aventura                       │
-│  🎯  Experiencias Inmersivas                 │
-└──────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🔍 ENFOQUE_EN_QA_Y_TESTING
-
-<div align="center">
-
-| 🎯 ESPECIALIDAD | 💻 ENFOQUE |
-|:----------------|:-----------|
-| **Testing Automatizado** | Desarrollo de pruebas automatizadas para optimizar el proceso de QA |
-| **Caza de Bugs** | Identificación y documentación de errores en el código |
-| **Mejora de Código** | Análisis y refactorización para mejor rendimiento y legibilidad |
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 REPOSITORIO_DESTACADO
+## 🏅 Certificaciones
+
+| Entidad | Certificación | Año |
+|:--------|:-------------|:----|
+| **Oracle** | Estructuras de Datos — Java Fundamentals | 2023–2025 |
+| **Microsoft** | Git y GitHub — Fundamentos de construcción del software | 2023–2025 |
+| **Microsoft** | Primeros pasos con Python | 2023–2025 |
+| **Microsoft** | Primeros pasos con C# | 2023–2025 |
+| **Microsoft** | Windows Server — Implementación y Administración | 2023–2025 |
+| **MATLAB** | MATLAB Onramp — Certificación Internacional | 2023–2025 |
+
+---
+
+## 📂 Proyectos Académicos Destacados
+
+<details>
+<summary>🔷 <strong>Desarrollo de Aplicaciones con POO</strong> — Java & C#</summary>
+<br>
+
+- Diseño e implementación de sistemas con **herencia, polimorfismo y encapsulamiento**
+- Aplicaciones de consola y escritorio con interfaces funcionales para el usuario final
+- Uso de patrones de diseño básicos para resolver problemas de arquitectura de software
+
+</details>
+
+<details>
+<summary>🗄️ <strong>Gestión de Bases de Datos Relacionales</strong> — SQL Server</summary>
+<br>
+
+- Modelado y normalización de BDs relacionales hasta **tercera forma normal**
+- Consultas SQL complejas, procedimientos almacenados, **triggers y transacciones**
+- Sistema de gestión funcional con garantía de consistencia de datos
+
+</details>
+
+<details>
+<summary>⚙️ <strong>Análisis y Construcción de Algoritmos</strong> — Java & Python</summary>
+<br>
+
+- Implementación de algoritmos de búsqueda (**lineal, binaria**) y ordenamiento (**burbuja, quicksort, mergesort**)
+- Estructuras de datos: **listas enlazadas, pilas, colas y árboles**
+- Análisis de complejidad **O(n)** para optimización de soluciones
+
+</details>
+
+---
+
+## 🎮 Interés: Desarrollo de Videojuegos
+
+```
+  Géneros que me apasionan:
+  ─────────────────────────
+  🗡️  RPG             →  narrativa profunda, sistemas de progresión
+  🌍  Mundos 3D       →  entornos abiertos e inmersivos
+  ⚔️  Acción/Aventura →  mecánicas dinámicas y desafiantes
+```
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sh111n0&repo=pagina_web_carros&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF)](https://github.com/sh111n0/pagina_web_carros)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh111n0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00aeff&icon_color=00aeff&text_color=FFFFFF&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh111n0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00aeff&text_color=FFFFFF)
 
 </div>
 
 ---
 
-## 📬 CANALES_DE_CONTACTO
+## 📬 Contacto
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────┐
-│  CONECTA CONMIGO                            │
-└─────────────────────────────────────────────┘
-```
-
-[![Instagram](https://img.shields.io/badge/Instagram-edward__nic__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edward_nic_)
-[![Email](https://img.shields.io/badge/Email-encastro@ucompensar.edu.co-00F0FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:encastro@ucompensar.edu.co)
-[![GitHub](https://img.shields.io/badge/GitHub-sh111n0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh111n0)
+[![Email](https://img.shields.io/badge/encastro@ucompensar.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:encastro@ucompensar.edu.co)
+[![GitHub](https://img.shields.io/badge/github.com/sh111n0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh111n0)
+[![Instagram](https://img.shields.io/badge/@edward__nic__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edward_nic_)
 
 </div>
 
 ---
 
-## 💬 SALIDA_DE_CONSOLA
-
-```bash
-> edward.getEnfoqueActual()
-"Transformando bugs en características desde 2024"
-
-> edward.getObjetivosFuturos()
-[
-  "Dominar el Desarrollo de Videojuegos",
-  "Construir experiencias web increíbles", 
-  "Convertirme en experto de QA y Testing",
-  "Crear juegos que inspiren"
-]
-
-> edward.getMotivacion()
-"Cada bug arreglado es un paso más cerca de la perfección 🚀"
-```
-
----
-
 <div align="center">
 
-### 「 ESTADO DEL SISTEMA: EN LÍNEA 」
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aeff,50:0d2137,100:0a0f1e&height=100&section=footer" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-```
-[████████████████████████████████] 100% LISTO PARA PROGRAMAR
-```
-
-**⚡ Impulsado por la curiosidad, guiado por la pasión ⚡**
+*"Cada bug arreglado es un paso más cerca de la perfección 🚀"*
 
 </div>
