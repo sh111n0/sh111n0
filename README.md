@@ -70,7 +70,7 @@ Me interesa continuar creciendo en desarrollo backend, arquitectura de software 
 
 ## Contacto
 
-- **Correo:** [encastro@ucompensar.edu.co](mailto:encastro@ucompensar.edu.co)
+- **Correo:** [edwardncastro06@gmail.com](mailto:edwardncastro06@gmail.com)
 - **GitHub:** [github.com/sh111n0](https://github.com/sh111n0)
 
 ---
