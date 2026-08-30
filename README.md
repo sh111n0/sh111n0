@@ -1,142 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:00aeff&height=200&section=header&text=Edward%20Castro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Técnico%20en%20Desarrollo%20de%20Software%20·%20Java%20·%20C%23%20·%20SQL&descAlignY=58&descColor=aad4f5" />
+# Edward Castro
+
+### Desarrollador de software en formación
+
+**Java · C# · SQL · Python**  
+Bogotá, Colombia
 
 </div>
 
 ---
 
-## 👾 Sobre mí
+## Perfil profesional
 
-```java
-public class Edward extends Desarrollador {
+Técnico en Desarrollo de Software y estudiante de cuarto semestre de Ingeniería de Software en **UCompensar**. Cuento con bases en programación orientada a objetos, bases de datos relacionales, algoritmos, estructuras de datos, pruebas de software y depuración.
 
-    String rol       = "Técnico en formación — Ing. de Software";
-    String ubicacion = "Bogotá, Colombia 🇨🇴";
-    String semestre  = "Cuarto semestre — Ucompensar";
+Actualmente busco una oportunidad de **contrato de aprendizaje** que me permita aportar mis conocimientos, fortalecer mi experiencia práctica y crecer dentro de un equipo de desarrollo.
 
-    String[] enfoque = {
-        "Programación Orientada a Objetos",
-        "Bases de Datos Relacionales",
-        "Algoritmos & Estructuras de Datos",
-        "Pruebas de Software & Debugging"
-    };
+## Competencias principales
 
-    String objetivo  = "Contrato de aprendizaje para aplicar mis habilidades en un entorno real";
-    String pasion    = "Desarrollo de videojuegos (RPG · Acción · Mundos 3D)";
-}
-```
+- Desarrollo de aplicaciones con **Java** y **C#**.
+- Modelado, normalización y consulta de bases de datos con **SQL Server**.
+- Diseño de soluciones mediante programación orientada a objetos.
+- Implementación de algoritmos y estructuras de datos.
+- Pruebas, depuración y control de versiones con **Git y GitHub**.
+- Capacidad de aprendizaje, análisis y resolución de problemas.
 
----
+## Tecnologías
 
-## 🛠️ Stack Tecnológico
+| Área | Tecnologías |
+|---|---|
+| Lenguajes | Java, C#, Python, SQL |
+| Bases de datos | SQL Server |
+| Herramientas | Git, GitHub, Visual Studio Code, Apache NetBeans |
+| Fundamentos | POO, estructuras de datos, algoritmos, pruebas y debugging |
 
-<div align="center">
+## Experiencia académica
 
-### Lenguajes
-![Java](https://img.shields.io/badge/Java-Intermedio-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Intermedio-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Básico-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Básico-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### Desarrollo de aplicaciones orientadas a objetos
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Diseño de aplicaciones aplicando encapsulamiento, herencia y polimorfismo.
+- Desarrollo de soluciones de consola y escritorio.
+- Organización del código mediante principios y patrones básicos de diseño.
 
-</div>
+### Bases de datos relacionales
 
----
+- Modelado y normalización de bases de datos hasta tercera forma normal.
+- Construcción de consultas, procedimientos almacenados, triggers y transacciones.
+- Aplicación de principios de integridad y consistencia de datos.
 
-## 🏅 Certificaciones
+### Algoritmos y estructuras de datos
 
-| Entidad | Certificación | Año |
-|:--------|:-------------|:----|
-| **Oracle** | Estructuras de Datos — Java Fundamentals | 2023–2025 |
-| **Microsoft** | Git y GitHub — Fundamentos de construcción del software | 2023–2025 |
-| **Microsoft** | Primeros pasos con Python | 2023–2025 |
-| **Microsoft** | Primeros pasos con C# | 2023–2025 |
-| **Microsoft** | Windows Server — Implementación y Administración | 2023–2025 |
-| **MATLAB** | MATLAB Onramp — Certificación Internacional | 2023–2025 |
+- Implementación de algoritmos de búsqueda y ordenamiento.
+- Uso de listas enlazadas, pilas, colas y árboles.
+- Análisis básico de complejidad para mejorar el desempeño de las soluciones.
 
----
+## Formación complementaria
 
-## 📂 Proyectos Académicos Destacados
+- **Oracle:** Estructuras de Datos y Java Fundamentals.
+- **Microsoft:** Fundamentos de Git y GitHub.
+- **Microsoft:** Primeros pasos con Python.
+- **Microsoft:** Primeros pasos con C#.
+- **Microsoft:** Implementación y administración de Windows Server.
+- **MathWorks:** MATLAB Onramp.
 
-<details>
-<summary>🔷 <strong>Desarrollo de Aplicaciones con POO</strong> — Java & C#</summary>
-<br>
+## Intereses profesionales
 
-- Diseño e implementación de sistemas con **herencia, polimorfismo y encapsulamiento**
-- Aplicaciones de consola y escritorio con interfaces funcionales para el usuario final
-- Uso de patrones de diseño básicos para resolver problemas de arquitectura de software
+Me interesa continuar creciendo en desarrollo backend, arquitectura de software y calidad de código. También exploro el desarrollo de videojuegos, especialmente experiencias RPG, de acción y mundos 3D.
 
-</details>
+## Contacto
 
-<details>
-<summary>🗄️ <strong>Gestión de Bases de Datos Relacionales</strong> — SQL Server</summary>
-<br>
-
-- Modelado y normalización de BDs relacionales hasta **tercera forma normal**
-- Consultas SQL complejas, procedimientos almacenados, **triggers y transacciones**
-- Sistema de gestión funcional con garantía de consistencia de datos
-
-</details>
-
-<details>
-<summary>⚙️ <strong>Análisis y Construcción de Algoritmos</strong> — Java & Python</summary>
-<br>
-
-- Implementación de algoritmos de búsqueda (**lineal, binaria**) y ordenamiento (**burbuja, quicksort, mergesort**)
-- Estructuras de datos: **listas enlazadas, pilas, colas y árboles**
-- Análisis de complejidad **O(n)** para optimización de soluciones
-
-</details>
-
----
-
-## 🎮 Interés: Desarrollo de Videojuegos
-
-```
-  Géneros que me apasionan:
-  ─────────────────────────
-  🗡️  RPG             →  narrativa profunda, sistemas de progresión
-  🌍  Mundos 3D       →  entornos abiertos e inmersivos
-  ⚔️  Acción/Aventura →  mecánicas dinámicas y desafiantes
-```
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh111n0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00aeff&icon_color=00aeff&text_color=FFFFFF&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh111n0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00aeff&text_color=FFFFFF)
-
-</div>
-
----
-
-## 📬 Contacto
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/encastro@ucompensar.edu.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:encastro@ucompensar.edu.co)
-[![GitHub](https://img.shields.io/badge/github.com/sh111n0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh111n0)
-[![Instagram](https://img.shields.io/badge/@edward__nic__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edward_nic_)
-
-</div>
+- **Correo:** [encastro@ucompensar.edu.co](mailto:encastro@ucompensar.edu.co)
+- **GitHub:** [github.com/sh111n0](https://github.com/sh111n0)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aeff,50:0d2137,100:0a0f1e&height=100&section=footer" />
-
-*"Cada bug arreglado es un paso más cerca de la perfección 🚀"*
+*Abierto a oportunidades de aprendizaje, colaboración y desarrollo profesional.*
 
 </div>
