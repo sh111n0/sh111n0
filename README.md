@@ -2,16 +2,21 @@
 
 Desarrollador de software junior y estudiante de Desarrollo de Software en la Fundación Universitaria Compensar, Bogotá, Colombia.
 
-Tengo seis meses de experiencia como practicante en Beneficiar, donde analicé y corregí errores de código y programé ajustes en Delphi. Mis repositorios públicos documentan proyectos académicos y personales en C#, Java, Kotlin, APIs REST y bases de datos relacionales.
+Tengo seis meses de experiencia como practicante en Beneficiar. Trabajé en el mantenimiento y desarrollo de un sistema en Delphi para gestión de usuarios, operaciones bancarias, transacciones de dinero y generación de reportes. Mis repositorios públicos documentan proyectos en C#, Java, Kotlin, APIs REST y bases de datos relacionales.
 
 ## Experiencia
 
 **Practicante de desarrollo de software — Beneficiar**  
-Duración: 6 meses
+**13 de abril de 2026 - 13 de octubre de 2026**
 
-- Análisis y corrección de errores de código en aplicaciones desarrolladas con Delphi.
-- Programación de ajustes y soluciones según las tareas asignadas.
-- Apoyo al mantenimiento del software durante el periodo de práctica.
+- Mantenimiento de un sistema en Delphi para gestión de usuarios y operaciones bancarias.
+- Análisis y corrección de fallos funcionales, errores del sistema e inconsistencias en reglas de negocio.
+- Trabajo sobre procesos relacionados con transacciones de dinero y generación de reportes.
+- Desarrollo de un módulo de comprobación de correos electrónicos integrado con ZeroBounce.
+- Procesamiento de respuestas del servicio externo y manejo controlado de errores.
+- Consultas y validaciones con SQL.
+- Gestión de cambios mediante GitHub Desktop.
+- Organización de tareas en Jira dentro de un equipo que trabajaba con Scrum.
 
 ## Tecnologías
 
@@ -20,7 +25,8 @@ Duración: 6 meses
 | Lenguajes | Delphi, Java, C#, Kotlin, Python y SQL |
 | Backend | ASP.NET Core Web API, Jakarta REST y JPA/Hibernate |
 | Bases de datos | MySQL, MariaDB y SQL Server |
-| Herramientas | Git, GitHub, Maven, Gradle, Apache NetBeans y Android Studio |
+| Herramientas | Git, GitHub Desktop, Jira, Maven, Gradle, Apache NetBeans y Android Studio |
+| Prácticas | Corrección de errores, reglas de negocio, integración con servicios externos y Scrum |
 | Fundamentos | Programación orientada a objetos, estructuras de datos, APIs REST, validación y depuración |
 
 ## Proyectos públicos destacados
@@ -53,6 +59,5 @@ Aplicación Java 21 con interfaz gráfica Swing y modo de consola. Gestiona visi
 
 ## Contacto
 
-- Correo institucional: [encastro@ucompensar.edu.co](mailto:encastro@ucompensar.edu.co)
-- Correo personal: [edwardncastro06@gmail.com](mailto:edwardncastro06@gmail.com)
+- Correo: [edwardncastro06@gmail.com](mailto:edwardncastro06@gmail.com)
 - GitHub: [github.com/sh111n0](https://github.com/sh111n0)
