@@ -1,22 +1,21 @@
 # Edward Castro
 
-Desarrollador de software junior y estudiante de Desarrollo de Software en la Fundación Universitaria Compensar, Bogotá, Colombia.
+Desarrollador de software junior y QA funcional, estudiante de Ingeniería en Desarrollo de Software en la Fundación Universitaria Compensar, Bogotá, Colombia.
 
-Tengo seis meses de experiencia como practicante en Beneficiar. Trabajé en el mantenimiento y desarrollo de un sistema para gestión de usuarios, operaciones bancarias, transacciones de dinero y generación de reportes, aplicando conocimientos básicos de Delphi. Mis repositorios públicos documentan proyectos en C#, Java, Kotlin, APIs REST y bases de datos relacionales.
+Tengo seis meses de experiencia como practicante en Beneficiar, donde trabajé en una aplicación de escritorio para gestión de usuarios, operaciones bancarias, transacciones de dinero y generación de reportes. Corregí aproximadamente 50 incidencias funcionales y de reglas de negocio durante ocho sprints, y desarrollé un módulo de validación de correos con ZeroBounce que fue aprobado para producción.
 
 ## Experiencia
 
 **Practicante de desarrollo de software — Beneficiar**  
 **13 de abril de 2026 - 13 de octubre de 2026**
 
-- Mantenimiento de un sistema en Delphi para gestión de usuarios y operaciones bancarias.
-- Análisis y corrección de fallos funcionales, errores del sistema e inconsistencias en reglas de negocio.
-- Trabajo sobre procesos relacionados con transacciones de dinero y generación de reportes.
-- Desarrollo de un módulo de comprobación de correos electrónicos integrado con ZeroBounce.
-- Procesamiento de respuestas del servicio externo y manejo controlado de errores.
-- Consultas y validaciones con SQL.
-- Gestión de cambios mediante GitHub Desktop.
-- Organización de tareas en Jira dentro de un equipo que trabajaba con Scrum.
+- Mantenimiento de una aplicación de escritorio para gestión de usuarios, operaciones bancarias, transacciones de dinero y reportes en CSV o Excel.
+- Corrección aproximada de 50 incidencias funcionales, errores del sistema e inconsistencias en reglas de negocio durante ocho sprints de 15 días.
+- Desarrollo de un módulo de comprobación de correos integrado con ZeroBounce, aprobado para producción.
+- Procesamiento de respuestas del servicio externo, presentación del resultado al usuario y manejo controlado de errores.
+- Consultas y validaciones con SQL mediante MySQL Workbench.
+- Participación en todas las ceremonias Scrum y gestión de tareas en Jira con un equipo de ocho desarrolladores.
+- Revisión de cambios con GitHub Desktop, paso al ambiente de QA, ejecución de pruebas y posterior publicación en producción.
 
 ## Tecnologías
 
@@ -25,9 +24,14 @@ Tengo seis meses de experiencia como practicante en Beneficiar. Trabajé en el m
 | Lenguajes | Java, C#, Kotlin, Python, SQL y Delphi (básico) |
 | Backend | ASP.NET Core Web API, Jakarta REST y JPA/Hibernate |
 | Bases de datos | MySQL, MariaDB y SQL Server |
-| Herramientas | Git, GitHub Desktop, Jira, Maven, Gradle, Apache NetBeans y Android Studio |
-| Prácticas | Corrección de errores, reglas de negocio, integración con servicios externos y Scrum |
+| Herramientas | Git, GitHub Desktop, Jira, MySQL Workbench, Maven, Gradle, Apache NetBeans y Android Studio |
+| Prácticas | QA funcional, pruebas de software, corrección de errores, integración con servicios externos y Scrum |
 | Fundamentos | Programación orientada a objetos, estructuras de datos, APIs REST, validación y depuración |
+
+## Formación académica
+
+- **Ingeniería en Desarrollo de Software**, Fundación Universitaria Compensar. Graduación estimada: 2028.
+- **Técnico en Desarrollo de Software**, Fundación Universitaria Compensar. Finalización prevista: octubre de 2026.
 
 ## Proyectos públicos destacados
 
