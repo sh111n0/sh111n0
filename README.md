@@ -2,7 +2,7 @@
 
 Desarrollador de software junior y estudiante de Desarrollo de Software en la Fundación Universitaria Compensar, Bogotá, Colombia.
 
-Tengo seis meses de experiencia como practicante en Beneficiar. Trabajé en el mantenimiento y desarrollo de un sistema en Delphi para gestión de usuarios, operaciones bancarias, transacciones de dinero y generación de reportes. Mis repositorios públicos documentan proyectos en C#, Java, Kotlin, APIs REST y bases de datos relacionales.
+Tengo seis meses de experiencia como practicante en Beneficiar. Trabajé en el mantenimiento y desarrollo de un sistema para gestión de usuarios, operaciones bancarias, transacciones de dinero y generación de reportes, aplicando conocimientos básicos de Delphi. Mis repositorios públicos documentan proyectos en C#, Java, Kotlin, APIs REST y bases de datos relacionales.
 
 ## Experiencia
 
@@ -22,7 +22,7 @@ Tengo seis meses de experiencia como practicante en Beneficiar. Trabajé en el m
 
 | Área | Tecnologías |
 |---|---|
-| Lenguajes | Delphi, Java, C#, Kotlin, Python y SQL |
+| Lenguajes | Java, C#, Kotlin, Python, SQL y Delphi (básico) |
 | Backend | ASP.NET Core Web API, Jakarta REST y JPA/Hibernate |
 | Bases de datos | MySQL, MariaDB y SQL Server |
 | Herramientas | Git, GitHub Desktop, Jira, Maven, Gradle, Apache NetBeans y Android Studio |
